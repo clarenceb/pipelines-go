@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pipeline-demos/pipelines-go/_apis/build/status/clarenceb.pipelines-go)](https://dev.azure.com/pipeline-demos/pipelines-go/_build/latest?definitionId=1)
 
 # Contributing
 
